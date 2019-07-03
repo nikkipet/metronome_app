@@ -6,7 +6,7 @@ apt-get update && \
 apt-get install -y \
 python3-pip \
 python-pip && \
-pip3 install playsound
+pip3 install pydub
 
 
 
